@@ -1,0 +1,8 @@
+TheaterName:Alfil
+TheaterPlaneImageFile:plane.png
+Festivo:2
+Area:Box Seat1;30€;palco1.txt
+Area:Box Seat2;30€;palco2.txt
+Area:Main Floor;50€;platea.txt
+Area:Amphitheatre1;40€;anfiteatro1.txt
+Area:Amphitheatre2;30€;anfiteatro2.txt

@@ -1,0 +1,3 @@
+play_name:The King Lion
+play_poster:imgReyLeon.png
+description:Produced by Stage Entertainment, The Lion King is the largest musical production ever performed in Spain. Suitable for the whole family, it is a unique experience that catches from beginning to end and that, as more than 100 million people around the world have already done, you have to live, at least, once in your life. For its spectacularity, for its beauty, for the emotion it is able to transmit...

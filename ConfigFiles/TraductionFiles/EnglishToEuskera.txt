@@ -1,0 +1,38 @@
+The King Lion:Lehoi Erregea
+Produced by Stage Entertainment, The Lion King is the largest musical production ever performed in Spain. Suitable for the whole family, it is a unique experience that catches from beginning to end and that, as more than 100 million people around the world have already done, you have to live, at least, once in your life. For its spectacularity, for its beauty, for the emotion it is able to transmit...:Stage Entertainment-ek ekoiztua, Lehoi Erregea Espainian inoiz egin den musika ekoizpen handiena da. Familia osoarentzako aproposa, hasieratik amaierara liluratzen duen esperientzia paregabea da eta munduan zehar 100 milioi pertsona baino gehiagok egin duten bezala, bizitzan gutxienez behin bizi behar dena. Bere ikusgarritasunagatik, bere edertasunagatik, transmititzeko gai den emozioagatik...
+Select idiom:Hautatu hizkuntza
+Select the idiom:Aukeratu hizkuntza
+Select day:Hautatu eguna
+Select the day:Hautatu eguna
+TUESDAY:ASTEARTEA
+WEDNESDAY:ASTEAZKENA
+THURSDAY:OSTEGUNA
+FRIDAY:OSTIRALA
+SATURDAY:LARUNBATA
+SUNDAY:IGANDEA
+Select the theater area:Hautatu antzokiaren eremua
+Box Seat1:Kutxa1
+Box Seat2:Kutxa2
+Main Floor:Orkestra
+Amphitheatre1:Anfiteatroa1
+Amphitheatre2:Anfiteatroa2
+0/4 seats selected:0/4 aukeratutako eserlekuak
+1/4 seats selected:1/4 aukeratutako eserlekuak
+2/4 seats selected:2/4 aukeratutako eserlekuak
+3/4 seats selected:3/4 aukeratutako eserlekuak
+4/4 seats selected:4/4 aukeratutako eserlekuak
+Insert a Credit Card:Sartu kreditu txartela
+Continue:Jarraitu
+Cancel:Utzi
+Catalán:Katalana
+Euskera:Euskara
+Spanish:Gaztelania
+English:Ingelesa
+Galician:Galegoa
+Theatre:Antzerkia
+Ticket:Txartela
+Row:Ilara
+Col:Zutabea
+Price:Prezioa
+PAYMENT ERROR:ORDAINKETA ERROREA
+Waiting to reconect...:Berriro konektatzeko zain...
